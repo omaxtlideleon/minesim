@@ -1,0 +1,25 @@
+Board height (default 8): Board width  (default 8): Num mines   (default 10): Simulations (default 100000000): Threads per block (default 256): Per-launch chunk boards (default 16777216): Save results to file? (0/1): Progress: 16.777%, 16777216/100000000 boards, 12.892 Btiles/s, avg: 4 ns/board, elapsed 70.276 ms, ETA 348.6 msProgress: 33.554%, 33554432/100000000 boards, 15.896 Btiles/s, avg: 3 ns/board, elapsed 113.987 ms, ETA 225.7 msProgress: 50.332%, 50331648/100000000 boards, 17.269 Btiles/s, avg: 3 ns/board, elapsed 157.390 ms, ETA 155.3 msProgress: 67.109%, 67108864/100000000 boards, 18.030 Btiles/s, avg: 2 ns/board, elapsed 200.987 ms, ETA 98.5 msProgress: 83.886%, 83886080/100000000 boards, 18.787 Btiles/s, avg: 2 ns/board, elapsed 241.122 ms, ETA 46.3 msProgress: 100.000%, 100000000/100000000 boards, 19.315 Btiles/s, avg: 2 ns/board, elapsed 279.575 ms, 
+
+Simulation Results:
+0: 1489062500 appearances (27.575231481%)
+1: 2379687500 appearances (44.068287037%)
+2: 1265625000 appearances (23.437500000%)
+3: 260937500 appearances (4.832175926%)
+4: 4687500 appearances (0.086805556%)
+5: 0 appearances (0.000000000%)
+6: 0 appearances (0.000000000%)
+7: 0 appearances (0.000000000%)
+8: 0 appearances (0.000000000%)
+1 average occurrence per board: 100.000000000% ± 0.000000000%
+2 average occurrence per board: 100.000000000% ± 0.000000000%
+3 average occurrence per board: 98.437500000% ± 0.001240196%
+4 average occurrence per board: 4.687500000% ± 0.002113711%
+5 average occurrence per board: 0.000000000% ± 0.000000000%
+6 average occurrence per board: 0.000000000% ± 0.000000000%
+7 average occurrence per board: 0.000000000% ± 0.000000000%
+8 average occurrence per board: 0.000000000% ± 0.000000000%
+Time taken: 0.280s
+Speed: ~357360209 boards/s
+Speed (tiles): 19.297 Btiles/s
+Average time per board: 2 ns
+Press Enter to exit... 
